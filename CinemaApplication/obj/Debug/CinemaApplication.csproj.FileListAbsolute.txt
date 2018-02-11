@@ -1,0 +1,10 @@
+C:\Users\Yusuf\source\repos\CinemaApplication\CinemaApplication\bin\Debug\CinemaApplication.exe.config
+C:\Users\Yusuf\source\repos\CinemaApplication\CinemaApplication\bin\Debug\CinemaApplication.exe
+C:\Users\Yusuf\source\repos\CinemaApplication\CinemaApplication\bin\Debug\CinemaApplication.pdb
+C:\Users\Yusuf\source\repos\CinemaApplication\CinemaApplication\obj\Debug\CinemaApplication.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf\source\repos\CinemaApplication\CinemaApplication\obj\Debug\CinemaApplication.Form1.resources
+C:\Users\Yusuf\source\repos\CinemaApplication\CinemaApplication\obj\Debug\CinemaApplication.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\CinemaApplication\CinemaApplication\obj\Debug\CinemaApplication.csproj.GenerateResource.Cache
+C:\Users\Yusuf\source\repos\CinemaApplication\CinemaApplication\obj\Debug\CinemaApplication.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\CinemaApplication\CinemaApplication\obj\Debug\CinemaApplication.exe
+C:\Users\Yusuf\source\repos\CinemaApplication\CinemaApplication\obj\Debug\CinemaApplication.pdb
